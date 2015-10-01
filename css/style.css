@@ -1782,6 +1782,10 @@ ul.dropdown-menu {
 .pWidth {
     width: 600px;
 }
+.ctr-text{
+	width: 100%;
+    text-align: center;
+    padding: 0 20%;}
 
 .firstCharacter {
     float: left;
